@@ -1,5 +1,5 @@
 # CPE_hub
-My CPE Practicing records
+My CPE practicing records & notes
 ## Source
 * [CPE 官網](https://cpe.cse.nsysu.edu.tw/)
 * [瘋狂程設](http://coding-frenzy.arping.me/)
